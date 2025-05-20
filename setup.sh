@@ -63,6 +63,9 @@ echo Installing NVM
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash
 source ~/.zprofile
 
+nvm install --lts
+nvm use --lts
+
 echo Creating .ssh directory
 mkdir ~/.ssh
 touch ~/.ssh/config
