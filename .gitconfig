@@ -1,0 +1,5 @@
+[user]
+	name = "Gabriel Campillo"
+	email = "gcampillo305@icloud.com"
+[push]
+	autoSetupRemote = true
