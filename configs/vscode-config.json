@@ -1,0 +1,91 @@
+{
+    "workbench.iconTheme": "vscode-icons-mac",
+    "[java]": {
+        "editor.suggest.snippetsPreventQuickSuggestions": false
+    },
+    "workbench.startupEditor": "none",
+    "explorer.confirmDelete": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.minimap.enabled": false,
+    "workbench.sideBar.location": "right",
+
+    "editor.copyWithSyntaxHighlighting": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.emptySelectionClipboard": false,
+    "workbench.editor.enablePreview": false,
+    "window.newWindowDimensions": "inherit",
+    "files.trimTrailingWhitespace": true,
+    "diffEditor.renderSideBySide": true,
+    "editor.snippetSuggestions": "top",
+    "editor.detectIndentation": false,
+    "window.nativeFullScreen": true,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "editor.guides.indentation": true,
+
+    "breadcrumbs.enabled": true,
+    "scm.diffDecorations": "none",
+    "editor.hover.delay": 500,
+    "editor.hover.enabled": true,
+    "workbench.tips.enabled": false,
+    "editor.colorDecorators": false,
+    "git.decorations.enabled": true,
+    "editor.lightbulb.enabled": "off",
+    "editor.selectionHighlight": true,
+    "editor.overviewRulerBorder": false,
+    "editor.renderLineHighlight": "none",
+    "editor.occurrencesHighlight": "off",
+    "problems.decorations.enabled": false,
+    "editor.renderControlCharacters": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.gotoLocation.multipleReferences": "goto",
+    "editor.gotoLocation.multipleDefinitions": "goto",
+    "editor.gotoLocation.multipleDeclarations": "goto",
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "editor.gotoLocation.multipleImplementations": "goto",
+    "editor.gotoLocation.multipleTypeDefinitions": "goto",
+
+    "editor.fontFamily": "Geist Mono, JetBrains Mono, Fira Code",
+    "editor.suggestFontSize": 11,
+    "editor.suggestLineHeight": 20,
+    "terminal.integrated.lineHeight": 1,
+    "terminal.integrated.fontSize": 11,
+
+    "workbench.tree.enableStickyScroll": true,
+
+    "editor.fontWeight": "400",
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "editor.padding.top": 16,
+    "editor.stickyScroll.enabled": false,
+    "editor.lineHeight": 15,
+
+    "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'ss07', 'ss08', 'calt', 'dlig'",
+    "diffEditor.wordWrap": "on",
+    "notebook.output.wordWrap": true,
+    "editor.fontSize": 11,
+    "editor.minimap.maxColumn": 250,
+    "editor.accessibilitySupport": "off",
+    "chat.editor.wordWrap": "on",
+    "editor.wordWrap": "wordWrapColumn",
+
+    "editor.linkedEditing": true,
+    "editor.formatOnSave": false,
+
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+
+    "editor.wordWrapColumn": 200,
+    "files.autoSave": "afterDelay",
+
+    "prettier.requireConfig": true,
+    "prettier.useEditorConfig": false,
+    "explorer.sortOrder": "type",
+    "prettier.tabWidth": 4,
+    "workbench.tree.indent": 15,
+    "workbench.activityBar.location": "top",
+    "files.associations": {
+        "*.sql": "jinja-sql"
+    },
+}
+
